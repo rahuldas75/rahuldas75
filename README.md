@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <img src="https://github.com/rahuldas75/rahuldas75/blob/297bdc9d391c5f2b931e5c87daee6f2ef6008801/octocat-1737117012523.png" width="300"/>
+  <img src="https://github.com/rahuldas75/rahuldas75/blob/297bdc9d391c5f2b931e5c87daee6f2ef6008801/octocat-1737117012523.png" width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahul Das</h1>
