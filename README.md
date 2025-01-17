@@ -1,4 +1,6 @@
-<img src="https://github.com/rahuldas75/rahuldas75/blob/297bdc9d391c5f2b931e5c87daee6f2ef6008801/octocat-1737117012523.png" width="300" align="center" />
+<center>
+  <img src="https://github.com/rahuldas75/rahuldas75/blob/297bdc9d391c5f2b931e5c87daee6f2ef6008801/octocat-1737117012523.png" width="300"/>
+</center>
 <h1 align="center">Hi 👋, I'm Rahul Das</h1>
 <h3 align="center">A passionate cs student</h3>
 
